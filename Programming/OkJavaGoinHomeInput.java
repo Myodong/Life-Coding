@@ -1,9 +1,9 @@
 import javax.swing.JOptionPane;
 
-import org.opentutorials.iot.DimmingLights;
-import org.opentutorials.iot.Elevator;
-import org.opentutorials.iot.Security;
-import org.opentutorials.iot.Lighting;
+import lib.org.opentutorials.iot.DimmingLights;
+import lib.org.opentutorials.iot.Elevator;
+import lib.org.opentutorials.iot.Security;
+import lib.org.opentutorials.iot.Lighting;
 
 
 public class OkJavaGoinHomeInput {

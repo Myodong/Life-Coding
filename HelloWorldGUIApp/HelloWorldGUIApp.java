@@ -1,8 +1,11 @@
 import javax.swing.*;   
 import java.awt.Dimension;
 import java.awt.Toolkit;
+
 public class HelloWorldGUIApp{
+	
     public static void main(String[] args){
+    	
         javax.swing.SwingUtilities.invokeLater(new Runnable() {
             public void run() {
                 JFrame frame = new JFrame("HelloWorld GUI");

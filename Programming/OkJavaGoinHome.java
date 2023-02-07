@@ -1,7 +1,6 @@
-import org.opentutorials.iot.Elevator;
-import org.opentutorials.iot.Security;
-import org.opentutorials.iot.Lighting;
-
+import lib.org.opentutorials.iot.Lighting;
+import lib.org.opentutorials.iot.Security;
+import lib.org.opentutorials.iot.Elevator;
 
 public class OkJavaGoinHome {
 
